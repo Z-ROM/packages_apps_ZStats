@@ -38,8 +38,7 @@
     <string name="preview_data_title">Preview data</string>
     <string name="preview_data_summary">%s</string>
     <string name="view_stats_title">View Liquid Stats Page</string>
-    
-    <string name="pref_stats">Information</string>
+
     <string name="last_report_on">Last reported</string>
     <string name="reporting_interval">Reporting interval</string>
     <plurals name="reporting_interval_days">
@@ -47,7 +46,6 @@
         <item quantity="other">%d days</item>
     </plurals>
     <string name="next_report_on">Next report</string>
-    <string name="app_signature">App signature</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">Unique ID</string>
@@ -57,12 +55,5 @@
     <string name="preview_carrier_title">Carrier</string>    
     <string name="preview_romname_title">ROM Name</string>    
     <string name="preview_romversion_title">LiquidSmooth Version</string>
-    
-    <string name="pref_info">About &amp; Support</string>
-    <string name="pref_info_about">About</string>
-    <string name="pref_info_changelog">Change log</string>
-    <string name="pref_info_changelog_desc">Show the change log</string>
-    <string name="pref_info_website">Web site</string>
-    <string name="pref_info_website_url">http://forum.xda-developers.com/showthread.php?t=2087099</string>
 
 </resources>
