@@ -45,10 +45,12 @@
             android:title="@string/view_stats_title" />
         <Preference
             android:key="pref_last_report_on"
-            android:title="@string/last_report_on" />
+            android:title="@string/last_report_on"
+            android:selectable="false" />
         <Preference
             android:key="pref_reporting_interval"
-            android:title="@string/reporting_interval" />
+            android:title="@string/reporting_interval"
+            android:selectable="false" />
     </PreferenceCategory>
 
 </PreferenceScreen>

@@ -23,36 +23,43 @@
         style="?android:preferenceInformationStyle"
         android:key="preview_id"
         android:summary="%s"
-        android:title="@string/preview_id_title" />
+        android:title="@string/preview_id_title"
+        android:selectable="false" />
     <Preference
         style="?android:preferenceInformationStyle"
         android:key="preview_device"
         android:summary="%s"
-        android:title="@string/preview_device_title" />
+        android:title="@string/preview_device_title"
+        android:selectable="false" />
     <Preference
         style="?android:preferenceInformationStyle"
         android:key="preview_version"
         android:summary="%s"
-        android:title="@string/preview_version_title" />
+        android:title="@string/preview_version_title"
+        android:selectable="false" />
     <Preference
         style="?android:preferenceInformationStyle"
         android:key="preview_country"
         android:summary="%s"
-        android:title="@string/preview_country_title" />
+        android:title="@string/preview_country_title"
+        android:selectable="false" />
     <Preference
         style="?android:preferenceInformationStyle"
         android:key="preview_carrier"
         android:summary="%s"
-        android:title="@string/preview_carrier_title" />
+        android:title="@string/preview_carrier_title"
+        android:selectable="false" />
     <Preference
         style="?android:preferenceInformationStyle"
         android:key="preview_romname"
         android:summary="%s"
-        android:title="@string/preview_romname_title" />
+        android:title="@string/preview_romname_title"
+        android:selectable="false" />
     <Preference
         style="?android:preferenceInformationStyle"
         android:key="preview_romversion"
         android:summary="%s"
-        android:title="@string/preview_romversion_title" />
+        android:title="@string/preview_romversion_title"
+        android:selectable="false" />
 
 </PreferenceScreen>
